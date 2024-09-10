@@ -61,4 +61,4 @@ The app will now be running on `http://localhost:3000/`.
 
 ## Acknowledgements
 
-I hope this project helps bring clarity and enjoyment to decision-making processes. Thank you for taking the time to explore Ranker!
+I hope this project helps bring clarity and enjoyment to decision-making processes. Thank you for taking the time to explore Robofriends!
